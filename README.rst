@@ -1,8 +1,16 @@
-QSpectrumAnalyzer
+QSpectrumAnalyzerG
 =================
 
-Spectrum analyzer for multiple SDR platforms (PyQtGraph based GUI for soapy_power,
-hackrf_sweep, rtl_power, rx_power and other backends)
+A community fixed version of qspectrumanalyzer. The spectrum analyzer for multiple software radio platforms.
+
+Patches by community ♥️
+-----------
+- https://github.com/xmikos/qspectrumanalyzer/issues/113 by arobertson404
+- https://github.com/xmikos/qspectrumanalyzer/issues/103 by ianmorti
+
+AUR package
+-----------
+To be done.
 
 Screenshots
 -----------
